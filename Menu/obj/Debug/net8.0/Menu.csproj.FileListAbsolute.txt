@@ -1,0 +1,14 @@
+/Users/jeppehmarek/RiderProjects/Pr07/Menu/bin/Debug/net8.0/Menu
+/Users/jeppehmarek/RiderProjects/Pr07/Menu/bin/Debug/net8.0/Menu.deps.json
+/Users/jeppehmarek/RiderProjects/Pr07/Menu/bin/Debug/net8.0/Menu.runtimeconfig.json
+/Users/jeppehmarek/RiderProjects/Pr07/Menu/bin/Debug/net8.0/Menu.dll
+/Users/jeppehmarek/RiderProjects/Pr07/Menu/bin/Debug/net8.0/Menu.pdb
+/Users/jeppehmarek/RiderProjects/Pr07/Menu/obj/Debug/net8.0/Menu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppehmarek/RiderProjects/Pr07/Menu/obj/Debug/net8.0/Menu.AssemblyInfoInputs.cache
+/Users/jeppehmarek/RiderProjects/Pr07/Menu/obj/Debug/net8.0/Menu.AssemblyInfo.cs
+/Users/jeppehmarek/RiderProjects/Pr07/Menu/obj/Debug/net8.0/Menu.csproj.CoreCompileInputs.cache
+/Users/jeppehmarek/RiderProjects/Pr07/Menu/obj/Debug/net8.0/Menu.dll
+/Users/jeppehmarek/RiderProjects/Pr07/Menu/obj/Debug/net8.0/refint/Menu.dll
+/Users/jeppehmarek/RiderProjects/Pr07/Menu/obj/Debug/net8.0/Menu.pdb
+/Users/jeppehmarek/RiderProjects/Pr07/Menu/obj/Debug/net8.0/Menu.genruntimeconfig.cache
+/Users/jeppehmarek/RiderProjects/Pr07/Menu/obj/Debug/net8.0/ref/Menu.dll

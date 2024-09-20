@@ -8,6 +8,11 @@ public class Menu
 
     public void Show()
     {
-        
+        for (int i = 0; i < ItemCount; i++)
+        {
+            Console.WriteLine(MenuItems[i].Title);
+        }
+
+        Console.WriteLine("\nVælg et menupunkt eller tryk på 0 for at afslutte");
     }
 }
